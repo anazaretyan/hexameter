@@ -26,7 +26,7 @@
 package org.codetome.hexameter.core.backport;
 //CHECKSTYLE:OFF
 import java.util.NoSuchElementException;
-import java.util.Objects;
+import org.codetome.hexameter.core.util.Objects;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
